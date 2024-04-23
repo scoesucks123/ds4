@@ -1,0 +1,5 @@
+aryan@user-1-2:~/Desktop/temp2-main/DSEDIT$ cd Assignment4/
+aryan@user-1-2:~/Desktop/temp2-main/DSEDIT/Assignment4$ java Berkeley 
+Average time difference: 3
+Adjusted time: Tue Apr 23 19:28:29 IST 2024
+
